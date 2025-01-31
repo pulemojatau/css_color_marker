@@ -14,11 +14,11 @@ This project is part of the freeCodeCamp CSS course([Responsive Web Design](http
 - [License](#license)
 
 ## Features
--🎨 Color Gradients: Uses linear gradients for realistic color shading on markers.
--💡 Shadow Effects: Adds box-shadow to enhance depth and visual appeal.
--🖍️ Marker Design: Three custom markers (red, green, blue) with cap and sleeve elements.
--🧱 Structured Layout: Centered and organized marker display with consistent margins and padding.
-📱 Responsive: Adapts to different screen sizes for a clean, mobile-friendly view.
+- 🎨 Color Gradients: Uses linear gradients for realistic color shading on markers.
+- 💡 Shadow Effects: Adds box-shadow to enhance depth and visual appeal.
+- 🖍️ Marker Design: Three custom markers (red, green, blue) with cap and sleeve elements.
+- 🧱 Structured Layout: Centered and organized marker display with consistent margins and padding.
+- 📱 Responsive: Adapts to different screen sizes for a clean, mobile-friendly view.
 
 ## Getting Started
 This project is built with plain HTML and CSS, and it’s a static webpage that runs directly in the browser.
